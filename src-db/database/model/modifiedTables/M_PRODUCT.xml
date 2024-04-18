@@ -5,5 +5,6 @@
         <default><![CDATA[Y]]></default>
         <onCreateDefault/>
       </column>
+      <check name="EM_ETC_M_PRODUCT_ISCOURSE"><![CDATA[EM_ETC_ISCOURSE IN ('Y', 'N')]]></check>
     </table>
   </database>
